@@ -1,0 +1,14 @@
+.favorite {
+  margin-bottom: 220px;
+
+  .header {
+    margin-bottom: 118px;
+  }
+
+  .cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+  }
+}

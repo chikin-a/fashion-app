@@ -1,0 +1,18 @@
+.brands {
+  background: #ebd96b;
+  margin-bottom: 120px;
+
+  &__row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 60px;
+    padding: 58px 0;
+
+    a {
+      img {
+        mix-blend-mode: multiply;
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+.new_arrivals {
+  margin-bottom: 143px;
+
+  &__header {
+    margin-bottom: 114px;
+  }
+
+  &__cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+  }
+}
